@@ -1,2 +1,1 @@
-# doubleodev.github.io
-My github resume
+**[View Live Preview](https://doubleodev.github.io/)**
